@@ -1,20 +1,8 @@
 # {System name}
 
-[Tecnologies]() - [Commands]() - [System design]() - [Use cases]()
+[System design](#system-design) • [Use cases](#use-cases) • [Technologies](#technologies) • [Commands](#commands)
 
 {About the system}
-
-## Technologies
-
-|Purpose|Name|
-|---|---|
-|-|-|
-
-## Commands
-
-|From|Command|Description|
-|---|---|---|
-|`root`|`something`|Something|
 
 ## System design
 
@@ -25,3 +13,15 @@
 ### {Some use case}
 
 Write something here...
+
+## Technologies
+
+|Purpose|Name|
+|---|---|
+|Database|[Something]()|
+
+## Commands
+
+|From|Command|Description|
+|---|---|---|
+|`root`|`something`|Something|
