@@ -4,7 +4,7 @@
 
 {About the system}
 
-## Tecnologies
+## Technologies
 
 |Purpose|Name|
 |---|---|
