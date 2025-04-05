@@ -1,6 +1,6 @@
 # {System name}
 
-[System design](#system-design) • [Use cases](#use-cases) • [Technologies](#technologies) • [Commands](#commands)
+[Use cases](#use-cases) • [System design](#system-design) • [Technologies](#technologies) • [Commands](#commands)
 
 {About the system}
 
