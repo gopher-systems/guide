@@ -1,27 +1,10 @@
-# {System name}
+# Gopher Systems Guide
 
-[System design](#system-design) • [Use cases](#use-cases) • [Technologies](#technologies) • [Commands](#commands)
+[Code of Conduct]() • [Licenses]()
 
-{About the system}
+This guide will show you:
 
-## System design
-
-{Diagram}
-
-## Use cases
-
-### {Some use case}
-
-Write something here...
-
-## Technologies
-
-|Purpose|Name|
-|---|---|
-|Database|[Something]()|
-
-## Commands
-
-|From|Command|Description|
-|---|---|---|
-|`root`|`something`|Something|
+- [How the systems are managed]()
+- [How to practice systems]()
+- [About concepts]()
+- [How to contribute]()
