@@ -4,7 +4,7 @@
 
 # Gopher Systems Guide
 
-[Code of Conduct]() • [Licenses](#licenses)
+[Code of Conduct](CODE_OF_CONDUCT.md) • [Licenses](#licenses)
 
 </div>
 
