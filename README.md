@@ -4,7 +4,7 @@
 
 # Gopher Systems Guide
 
-[Code of Conduct]() • [Licenses]()
+[Code of Conduct]() • [Licenses](#licenses)
 
 </div>
 
@@ -26,6 +26,21 @@ All system READMEs follow the [same template](SYSTEM_TEMPLATE.md), which contain
 
 ## How to practice systems
 
+You can create your own repository and copy the system README to the README of that new repository
+
+From there, implement all use cases and strictly follow the system design. You have the freedom to choose other
+technologies and commands for your implementation
+
+Once you've completed your implementation, you can share it in the [Implementation Showcase](). You can also see
+other implementations and compare them to yours
+
 ## About concepts
 
+In addition to being a practical project, Gopher Systems also provides [Concepts](), which are nothing
+more than notes on various subjects related to systems and software
+
+These concepts can be referenced in the systems' READMEs, to make them better documented and understandable
+
 ## How to contribute
+
+## Licenses
