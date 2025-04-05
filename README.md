@@ -14,3 +14,11 @@ This guide will show you:
 - [How to practice systems]()
 - [About concepts]()
 - [How to contribute]()
+
+## How the systems are managed
+
+## How to practice systems
+
+## About concepts
+
+## How to contribute
