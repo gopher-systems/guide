@@ -4,15 +4,15 @@
 
 {About the system}
 
-## System design
-
-{Diagram}
-
 ## Use cases
 
 ### {Some use case}
 
 Write something here...
+
+## System design
+
+{Diagram}
 
 ## Technologies
 
