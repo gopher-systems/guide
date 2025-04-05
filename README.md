@@ -24,6 +24,8 @@ All system READMEs follow the [same template](SYSTEM_TEMPLATE.md), which contain
 - **Technologies:** A list of technologies the system uses and their purposes
 - **Commands:** A list of commands to interact with the system
 
+Systems also have GitHub tags so we can filter them
+
 ## How to practice systems
 
 You can create your own repository and copy the system README to the README of that new repository
@@ -36,7 +38,7 @@ other implementations and compare them to yours
 
 ## About concepts
 
-In addition to being a practical project, Gopher Systems also provides [Concepts](), which are nothing
+In addition to being a practical project, Gopher Systems also provides [Concepts](https://github.com/gopher-systems/guide/tree/main/concepts), which are nothing
 more than notes on various subjects related to systems and software
 
 These concepts can be referenced in the systems' READMEs, to make them better documented and understandable
