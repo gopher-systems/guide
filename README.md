@@ -10,10 +10,10 @@
 
 This guide will show you:
 
-- [How the systems are managed]()
-- [How to practice systems]()
-- [About concepts]()
-- [How to contribute]()
+- [How the systems are managed](#how-the-systems-are-managed)
+- [How to practice systems](#how-to-practice-systems)
+- [About concepts](#about-concepts)
+- [How to contribute](#how-to-contribute)
 
 ## How the systems are managed
 
