@@ -33,7 +33,7 @@ You can create your own repository and copy the system README to the README of t
 From there, implement all use cases and strictly follow the system design. You have the freedom to choose other
 technologies and commands for your implementation
 
-Once you've completed your implementation, you can share it in the [Show and Tell]() topic. You can also see
+Once you've completed your implementation, you can share it in the [Show and Tell](https://github.com/orgs/gopher-systems/discussions/categories/show-and-tell) topic. You can also see
 other implementations and compare them to yours
 
 ## About concepts
