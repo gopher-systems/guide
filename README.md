@@ -45,4 +45,9 @@ These concepts can be referenced in the systems' READMEs, to make them better do
 
 ## How to contribute
 
+You can contribute by creating new issues in the system repositories. If the issue is related to a bug
+or improvement, you can also make a pull request resolving the issue
+
 ## Licenses
+
+All systems are MIT licensed
