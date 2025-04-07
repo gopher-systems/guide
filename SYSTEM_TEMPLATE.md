@@ -1,18 +1,6 @@
 # {System name}
 
-[Use cases](#use-cases) • [System design](#system-design) • [Technologies](#technologies) • [Commands](#commands)
-
 {About the system}
-
-## Use cases
-
-### {Some use case}
-
-Write something here...
-
-## System design
-
-{Diagram}
 
 ## Technologies
 
@@ -25,3 +13,5 @@ Write something here...
 |From|Command|Description|
 |---|---|---|
 |`root`|`something`|Something|
+
+## Documentation
