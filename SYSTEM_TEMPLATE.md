@@ -1,6 +1,6 @@
-# {System name}
+# {Title}
 
-{About the system}
+{About}
 
 ## Technologies
 
